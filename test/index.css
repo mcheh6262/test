@@ -1,0 +1,25 @@
+
+
+h1 {
+    text-align: center;
+    color: rgb(4, 9, 97);
+    padding-top: 50px;
+}
+
+
+
+  .red {
+    background-color: brown;
+  }
+
+.hilight {
+    background-color: rgb(219, 11, 11);
+    border: solid 2px rgb(17, 153, 65);
+}
+.trgreen {
+    background-color: rgb(107, 249, 102) !important;
+}
+
+.trred {
+    background-color: rgb(249, 102, 102) !important;
+}
